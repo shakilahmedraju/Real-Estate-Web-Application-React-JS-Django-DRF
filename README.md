@@ -25,7 +25,7 @@ Demo
 ![Alt text](/images/Realest-Estate-Home.png "Home")
 
 ### All Listings
-![Alt text](/images/Realest-Estate-Listins.png "All Listins")
+![Alt text](/images/Realest-Estate-Listings.png "All Listings")
 
 ### About
 ![Alt text](/images/Realest-Estate-About.png "About")
