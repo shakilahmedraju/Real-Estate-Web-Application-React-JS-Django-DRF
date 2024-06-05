@@ -24,6 +24,15 @@ Demo
 ### Home
 ![Alt text](/images/Realest-Estate-Home.png "Home")
 
+### All Listings
+![Alt text](/images/Realest-Estate-Listins.png "All Listins")
+
+### About
+![Alt text](/images/Realest-Estate-About.png "About")
+
+### Contact
+![Alt text](/images/Realest-Estate-Contact.png "Contact")
+
 ## Features
 
 - User authentication (Sign Up and Sign In)
