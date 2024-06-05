@@ -10,12 +10,6 @@ Frontend Setup Instructions
 Contributing
 Demo
 
-
-Features
-
-
-Setup Instructions
-Backend Setup Instructions
 ## Table of Contents
 
 - [Demo](#demo)
