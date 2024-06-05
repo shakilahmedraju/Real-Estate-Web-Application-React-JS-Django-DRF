@@ -21,8 +21,8 @@ Demo
 - [Contributing](#contributing)
 
 ## Demo
-
-![Alt text](/public/images/app.png "Optional title")
+### Home
+![Alt text](/images/Realest-Estate-Home.png "Home")
 
 ## Features
 
