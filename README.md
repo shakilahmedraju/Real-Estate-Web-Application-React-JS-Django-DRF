@@ -55,7 +55,7 @@ Backend Setup Instructions
 1. Clone the repository:
 
    \`\`\`
-   git clone https://github.com/shakilahmedraju/Ecommerce-Home-with-Fetching-REST-API
+   git clone [https://github.com/shakilahmedraju/Ecommerce-Home-with-Fetching-REST-API](https://github.com/shakilahmedraju/Real-Estate-Web-Application-React-JS-Django-DRF.git)
    \`\`\`
 
 ### Backend Setup Instructions
