@@ -116,4 +116,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 5. Push to the branch (\`git push origin feature/your-feature-name\`).
 6. Create a new Pull Request.
 
+## Contact
+If you have any questions or feedback, please feel free to reach out to me at iamshakilahmedraju@gmail.com.
+
 
