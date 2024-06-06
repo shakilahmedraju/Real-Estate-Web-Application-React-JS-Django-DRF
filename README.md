@@ -64,52 +64,44 @@ Demo
 ### Backend Setup Instructions
 1. Navigate to the project directory:
 
-   \`\`\`
-   cd backend
-   \`\`\`
+   ```
+   run: cd backend
    
-2. Creat venv:
+2. Create venv:
 
-   \`\`\`
-   run: python -m venv venv
-   \`\`\`
+   ```
+  run: python -m venv venv
 
 3. Activate venv:
 
-   \`\`\`
+   ```
    run: .\venv\Scripts\activate
-   \`\`\`
 
 4. Install packages:
 
-   \`\`\`
+   ```
    run: pip install -r requirements.txt
-   \`\`\`
 
 4. Start the development server:
 
-   \`\`\`
+   ```
    run: python manage.py runserver
-   \`\`\`
    
 ### Frontend Setup Instructions
 1. Navigate to the project directory:
 
-   \`\`\`
+   ```
    cd fronted
-   \`\`\`
 
 3. Install dependencies:
 
-   \`\`\`
+   ```
    npm install
-   \`\`\`
 
 4. Start the development server:
 
-   \`\`\`
+   ```
    npm start
-   \`\`\`
 
 
 
